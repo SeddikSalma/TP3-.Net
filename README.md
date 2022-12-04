@@ -1,10 +1,10 @@
 # TP3-.net
 
-##/person 
-###to view all persons
+## /person 
+### to view all persons
 
-##/person/onePerson/$id 
-###to view one person
+## /person/onePerson/$id 
+### to view one person
 
-##/person/search 
-###to search for specific person
+## /person/search 
+### to search for specific person
